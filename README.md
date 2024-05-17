@@ -11,7 +11,7 @@ Hi there 👋, I'm Saumyakanta Panda! a self-taught full stack web developer spe
 Here are some of the projects I've worked on:
 
 - **Google Keep clone**: A full stack web app similar to Google keep built using Next.js, MongoDB, Material UI, Cleark. [View Project](https://keep-clone-iota.vercel.app/)
-- **Filmpro**: A movie information sharing web app built using React.js, TMDB API, Redux toolkit, Chakra UI, Firebase. [View Project](https://filmpro.vercel.app/)
+- **Filmpro**: A movie and casts information sharing web app built using React.js, TMDB API, Redux toolkit, Chakra UI, Firebase. [View Project](https://filmpro.vercel.app/)
 
 ## Tech Stacks
 

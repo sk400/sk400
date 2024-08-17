@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi there 👋, I'm Saumyakanta Panda! I’m a self-taught full stack web developer, and I specialize in building SaaS web apps using Next.js, React.js, and the ecosystem. I'm passionate about coding, generative AI, and building impactful projects. Currently, I’m dedicated to learning and enhancing my skills on [codedamn](https://codedamn.com/user/lee0309). I also use generative AI tools like Codeium, ChatGPT, Gemini, Locofy, etc. to accelerate my development process. Let's connect and geek out about tech and coding!
+Hi there 👋, I'm Saumyakanta Panda! I’m a self-taught full stack web developer, and I am specializing in building SaaS web apps using Next.js, React.js, and the ecosystem. I'm passionate about coding, generative AI, and building impactful projects. Currently, I’m dedicated to learning and enhancing my skills on [codedamn](https://codedamn.com/user/lee0309). I also use generative AI tools like Codeium, ChatGPT, Gemini, Locofy, etc. to accelerate my development process. Let's connect and geek out about tech and coding!
 
 
 ## My Projects

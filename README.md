@@ -12,6 +12,8 @@ Here are some of the projects I've worked on:
 
 - **Google Keep clone**: A full stack web app similar to Google keep built using Next.js, MongoDB, Material UI, Cleark. [View Project](https://keep-clone-iota.vercel.app/)
 - **Filmpro**: A movie and casts information sharing web app built using React.js, TMDB API, Redux toolkit, Chakra UI, Firebase. [View Project](https://filmpro.vercel.app/)
+- **Ascend**: A Kanban web app to visully organise and track your tasks. It is built using React.js, React router, Chakra UI and Firebase. [View Project](https://ascend-eta.vercel.app/)
+- **Planner**: A task management web app built using React.js, React router, Chakra UI and Firebase. [View Project](https://planner-task.vercel.app/)
 
 ## Tech Stacks
 
